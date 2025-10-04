@@ -11,7 +11,7 @@
 import random
 
 num = random.randint(1, 100)
-#elif grade in range (65, 70):
+
 print('===== Coin Flipper =====')
 if num >= 51:
     print('Tails')
